@@ -1,4 +1,4 @@
-![MasterHead](https://www.appstud.com/wp-content/uploads/2018/03/React-Native-Titre.png)
+![MasterHead](https://www.patterns.dev/img/reactjs/react-logo@3x.svg)
 <h1 align="center">Hi 👋, I'm Berke Türk</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
