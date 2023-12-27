@@ -1,4 +1,3 @@
-![MasterHead](https://pbs.twimg.com/media/FwcTGYgaAAErdY6.png)
 <h1 align="center">Hi 👋, I'm Berke Türk</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
@@ -24,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berketurkv2&show_icons=true&locale=en" alt="berketurkv2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berketurkv2&" alt="berketurkv2" /></p>
+![MasterHead](https://pbs.twimg.com/media/FwcTGYgaAAErdY6.png)
