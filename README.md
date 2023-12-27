@@ -1,4 +1,4 @@
-![MasterHead](https://www.patterns.dev/img/reactjs/react-logo@3x.svg)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--6kgqeGCV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r50g6iar0tclcbau9oh2.png)
 <h1 align="center">Hi 👋, I'm Berke Türk</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
@@ -24,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berketurkv2&show_icons=true&locale=en" alt="berketurkv2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berketurkv2&" alt="berketurkv2" /></p>
-
-![snake gif](https://github.com/BerkeTurkV2/BerkeTurkV2/blob/output/github-contribution-grid-snake.gif)
