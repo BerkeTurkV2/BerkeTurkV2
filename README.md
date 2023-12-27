@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--6kgqeGCV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r50g6iar0tclcbau9oh2.png)
+![MasterHead](https://pbs.twimg.com/media/FwcTGYgaAAErdY6.png)
 <h1 align="center">Hi 👋, I'm Berke Türk</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
